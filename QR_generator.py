@@ -2,7 +2,7 @@ import qrcode
 import os
 
 # URL address
-data = "modnesciany.pl"
+data = "https://modnesciany.pl"
 
 # QR code generating
 qr = qrcode.QRCode(
