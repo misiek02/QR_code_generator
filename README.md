@@ -1,2 +1,2 @@
 # QR_code_generator
-Code to generate custom QR codes
+Code to generate custom QR's
